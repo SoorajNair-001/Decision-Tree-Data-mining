@@ -1,0 +1,6 @@
+CRED_HIS
+ !--poor--AGE
+ !          !--youth--H
+ !          !--mid_age--H
+ !          !--senior--L
+ !--good--L
